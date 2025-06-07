@@ -1,0 +1,7 @@
+Simon Game | Interactive Memory Game
+Developed a memory-based game using HTML, CSS, and JavaScript, challenging users to remember and repeat color sequences.
+Implemented randomized sequence generation with JavaScript to create dynamic gameplay.
+Utilized jQuery for event handling, DOM manipulation, and animations for interactive feedback.
+Designed a visually engaging UI with CSS styling, including color-coded buttons and animated effects.
+Integrated sound effects to enhance user experience, playing corresponding tones for each button press.
+Applied game logic and state management, handling user input, updating sequences, and providing real-time status updates.
